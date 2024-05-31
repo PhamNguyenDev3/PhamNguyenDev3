@@ -1,7 +1,6 @@
 # 🌟 Xin chào, tôi là Phạm Nguyễn!
-<p align="center">
+
 ![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
